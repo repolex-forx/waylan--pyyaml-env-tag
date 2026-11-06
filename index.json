@@ -1,0 +1,11 @@
+{
+  "org": "waylan",
+  "repo": "pyyaml-env-tag",
+  "versions": [
+    {
+      "commit": "8f43568693ebd7fcad5c3b79ef6ce0072225914f",
+      "tag": "1.1",
+      "parsed_at": "2026-11-06T03:01:38.069256+00:00"
+    }
+  ]
+}
